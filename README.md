@@ -34,4 +34,5 @@ without their office hours, but 3 hours of lecture per week is simply not enough
 By working hard, long, consistent hours every day, I was able to self learn enough about particle physics and programming to complete this project on my own. 
 More than half the class failed to submit a completed research project, along with their code, at the end of the quarter. Since the class is graded on a curve, 
 I could have quit early and been fine. But I was determined to see this through, I was determined to see how far I could get. The results of that are the contents 
-of this repository. 
+of this repository. I worked with a partner, but all code and papers are written by me exclusively. Partner was required to write his own code and project, and we
+worked together on understanding and progressing through the experiment. 
